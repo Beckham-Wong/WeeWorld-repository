@@ -1,2 +1,2 @@
 # WeeWorld-repository
-A repository that takes WeeWorld back to good old days of Internet
+Presented in homage to the original weeworld.com, which doesn't seem to exist anymore ☹︎
